@@ -72,3 +72,11 @@ B.Tech Information Technology
 
 ## Repository
 https://github.com/Yogesh131013/mess-waste-tracker
+
+## Project QR Code
+
+Scan the QR code below to access the project repository.
+
+![Mess Waste Tracker GitHub QR Code](github-qr.png)
+
+
